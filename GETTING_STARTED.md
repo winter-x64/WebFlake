@@ -4,6 +4,8 @@
 
 Your task is to create a Christmas Themed webpage using HTML, CSS, and JavaScript to showcase your skills. Judging criteria include creativity, accessibility, and programming skills.
 
+> Note: It's a frontend project, so no backend is required!!!
+
 Google is your buddy
 
 ## Getting started
