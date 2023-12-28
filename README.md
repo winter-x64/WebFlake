@@ -1,9 +1,9 @@
-# Project Name
+# Game of Santa
 
-## Project desc
+##A simple Christmas Site 
 
-## participant info
+## Pranav Das from College of Engineering Chengannur ,3rd Sem Computer Science Student 
 
-[Your name](github-profile-urls)
+[Pranav Das](https://github.com/Pranavdas-1)
 
 > to get started click [here](GETTING_STARTED.md)
