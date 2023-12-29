@@ -2,7 +2,7 @@
 
 ## Have Some Chritmas Fun
 
-## Pranav Das from College of Engineering Chengannur ,3rd Sem Computer Science Student 
+### Pranav Das from College of Engineering Chengannur ,3rd Sem Computer Science Student 
 
 [Pranav Das](https://github.com/Pranavdas-1)
 
