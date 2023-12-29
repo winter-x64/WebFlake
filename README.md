@@ -1,6 +1,6 @@
 # Game of Santa
 
-##A simple Christmas Site 
+## Have Some Chritmas Fun
 
 ## Pranav Das from College of Engineering Chengannur ,3rd Sem Computer Science Student 
 
