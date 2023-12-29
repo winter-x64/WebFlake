@@ -1,4 +1,5 @@
-# J i n g l e Bells
+##Christmas Website
+![Christmas Image](https://wallpapercg.com/media/ts_2x/447.webp)
 
 This repository contains the source code for a Christmas-themed website. The website is designed to provide information and features related to Christmas, including details about Christmas, Santa Claus, a wish-drop section, greetings, blessings, and information about the project itself.
 [Visit my Christmas Website](https://sites.google.com/view/j-i-n-g-l-e-bells/home)
