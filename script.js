@@ -51,5 +51,5 @@ const scrollRevealOption = {
     audio.play();
   }
   
-  playSound('assets/audio.mp3',true)
+  playSound('sound.mp3',true)
         play.addEventListener("click", playMusic);
