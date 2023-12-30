@@ -8,4 +8,4 @@
 
 I mainly used Pinterest and unsplash for images and youtube for doing the moving background text and the last image festival
 
-> to get started click [[here](https://pranavdas-1.github.io/WebFlake/)https://pranavdas-1.github.io/WebFlake/](GETTING_STARTED.md)
+> to get started click [[here](https://pranavdas-1.github.io/WebFlake/)https://pranavdas-1.github.io/WebFlake/]
