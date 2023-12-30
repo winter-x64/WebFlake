@@ -38,11 +38,11 @@ body{
     }
 }
 .top-text h3{
-    margin-top: 0%;
+    margin-top: -5%;
     font-size: 17px;
     font-weight: 300;
     font-family: 'Poppins', sans-serif;
-    margin-left: 17%;
+    margin-left: 18%;
     margin-right: 17%;
     color: rgb(64, 64, 64);
     text-align: center;
