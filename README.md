@@ -1,9 +1,11 @@
-# Project Name
+# Game of Santa
 
-## Project desc
+## Have Some Chritmas Fun
 
-## participant info
+### Pranav Das from College of Engineering Chengannur ,3rd Sem Computer Science Student 
 
-[Your name](github-profile-urls)
+[Pranav Das](https://github.com/Pranavdas-1)
 
-> to get started click [here](GETTING_STARTED.md)
+I mainly used Pinterest and unsplash for images and youtube for doing the moving background text and the last image festival
+
+> to get started click [[here](https://pranavdas-1.github.io/WebFlake/)https://pranavdas-1.github.io/WebFlake/]
